@@ -7,4 +7,8 @@ Selenium Documentations
 
 -	[독자 참고 사항 - Selenium 2.0 용으로 개정 된 문서!](noteToReaders.md)
 -	[개요](intro.md)
--	[Selenium IDE](selenium_ide.md) ![](Pic_selenium_ide/underConstruction.png)
+-	[Selenium IDE](selenium_ide.md) <img src="./Pic_selenium_ide/underConstruction.png" width="30"/>
+-	[Selenium 2](selenium_2.md) <img src="./Pic_selenium_ide/underConstruction.png" width="30"/>
+-	[테스트 설계 고려사항](test_Design_Considerations.md) <img src="./Pic_selenium_ide/underConstruction.png" width="30"/>
+-	[Selenium-Grid](selenium_Grid.md) <img src="./Pic_selenium_ide/underConstruction.png" width="30"/>
+-	[사용자 확장](user_extensions.md) <img src="./Pic_selenium_ide/underConstruction.png" width="30"/>

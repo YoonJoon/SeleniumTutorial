@@ -115,27 +115,27 @@ Selenium은 유연합니다. Selenium 테스트 스크립트와 Selenium의 프�
 
 문서의 구성은 아래와 같습니다.
 
-#### [Selenium IDE](selenium_ide)
+#### [Selenium IDE](selenium_ide.md)
 
 Selenium Integrated Development Environment를 사용하며 Selenium IDE를 소개하고 이를 사용하여 테스트 스크립트를 작성하는 방법을 설명합니다. 프로그래밍에 익숙하지 않지만 테스트 자동화를 배우기를 원한다면 이 장부터 시작해야 합니다. Selenium IDE로 자동화된 테스트를 작성할 수 있습니다. 또한 프로그래밍을 할 수 있다면 Selenium IDE를 사용하여 테스트의 래피드 프로토타이핑(rapid prototyping)을 할 수 있다는 점에 관심을 가져 주십시요. 또한 Selenium IDE이 지원하지 않는 고급 기능을 추가하기 위해 테스트 스크립트를 프로그래밍 언어로 "export"하는 방법을 보여줍니다.
 
-#### [Selenium 2](selenium_2)
+#### [Selenium 2](selenium_2.md)
 
 Selenium 2를 사용하여 자동화된 테스트 프로그램을 개발하는 방법을 설명합니다.
 
-#### [Selenium 1](selenium_1)
+#### [Selenium 1](selenium_1.md)
 
 Selenium RC API를 사용하여 자동화 된 테스트 프로그램을 개발하는 방법을 설명합니다. 프로그래밍 언어와 스크립팅 언어를 사용한 예들을 참고할 수 있습니다. 또한 Selenium RC의 설치 및 설정을 여기에서 설명하고 있습니다. Selenium RC가 지원하는 다양한 모드 또는 구성에 대한 장단점, 제약 사항 그리고 이들을 설명하기 위한 아키텍처 다이어그램을 함께 기술합니다. 보안 인증서, https 요청, 팝업과 새 창 열기와 같은 새로운 Sel-R 사용자들이 자주 겪는 공통적인 어려운 문제에 대한 해결책도 설명합니다.
 
-#### [테스트 설계 고려사항](test_design_conderations)
+#### [테스트 설계 고려사항](test_Design_Conderations.md)
 
 이 장에서는 Selenium-WebDriver 및 Selenium RC에서 사용할 프로그래밍 기법을 설명합니다. 또한 설정 및 분해 기능을 설계하는 방법, 데이터 기반 테스트를 구현하는 방법 (테스트 작업 사이 데이터를 변경할 수 있는 테스트)등과 같은 사용자 포럼에서 발췌한 공통적으로 요구되는 기술과 일반적인 테스트 자동화 작업을 프로그래밍하는 기타 방법을 보여줍니다.
 
-#### [Selenium-Grid](selenium_grid)
+#### [Selenium-Grid](selenium_Grid.md)
 
 이 장은 아직 작성이 끝나지 않았습니다.
 
-#### [User extensions](user_extension)
+#### [User Extensions](user_extensions.md)
 
 Selenium을 수정, 확장 및 사용자 맞춤을 정의 할 수있는 방법을 설명합니다.
 
